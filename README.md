@@ -48,4 +48,8 @@ _HI! I'M ELIZA. WHAT'S YOUR PROBLEM?_
 There is no such agent-cy. Or is that a bot, in disguise?
 - https://github.com/huginn/huginn - Your agents are standing by.
 
+### Bots vs agents?
+
+See, in https://raw.githubusercontent.com/huginn/huginn/master/doc/imgs/diagram.png you see that agents can DO a lot of things, but preferably, one agent is very good at a single task. Or you send a bunch, and hope one gets it right and none of them breaks ~cover~ the software environment. So... maybe keep any agents (and [bots](https://www.popularmechanics.com/technology/robots/a20808/ibm-tape-swapping-robot/)) out of your backup solution, for now? _I CAN'T LET YOU DO THAT, DAVE_
+
 And a frindly wave to https://en.wikipedia.org/wiki/ASIMO
