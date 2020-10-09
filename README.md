@@ -23,6 +23,8 @@ Some discontinued ones are moved down below Archived
 
 # By feature
 
+SURVEY: [Please describe your dream github bot](https://github.com/these-are-the/github-bots-youre-looking-for/issues/4)
+
 Most used features:
 
 - Quick review with +/- approval votes
@@ -54,7 +56,9 @@ _HI! I'M ELIZA. WHAT'S YOUR PROBLEM?_
 There is no such agent-cy. Or is that a bot, in disguise?
 - https://github.com/huginn/huginn - Your agents are standing by.
 
-### Bots vs agents?
+### Distinguishing bots from agents
+
+`git diff bot..agent # ???`
 
 See, in https://raw.githubusercontent.com/huginn/huginn/master/doc/imgs/diagram.png you see that agents can DO a lot of things, but preferably, one agent is very good at a single task. Or you send a bunch, and hope one gets it right and none of them breaks ~cover~ the software environment. So... maybe keep any agents (and [bots](https://www.popularmechanics.com/technology/robots/a20808/ibm-tape-swapping-robot/)) out of your backup solution, for now? _I CAN'T LET YOU DO THAT, DAVE_
 
@@ -62,7 +66,7 @@ See, in https://raw.githubusercontent.com/huginn/huginn/master/doc/imgs/diagram.
 
 ### github bots
 
-But let's ass-u-me that we can all agree that github bots are being (likely non-corporal) beings that can communiacte and perform some github-related actions. If they don't do anything github related, then they are not the bots you (or at least this page) is looking for.
+But let's ass-u-me that we can all agree that github bots are being - *likely* _non-corporal_ - beings that can communiacte and perform some github-related actions. If they don't do anything github related, then they are not the bots you (or at least this page) is looking for.
 
 ## Physical bots
 
