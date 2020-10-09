@@ -10,6 +10,8 @@ TBD https://github.com/these-are-the/github-bots-youre-looking-for/issues/2
 
 # Alphabetic list (excluding "archived" ones)
 
+Some discontinued ones are moved down below Archived 
+
 - bors-ng - https://bors.tech/ (RIP +homu https://bors.tech/homu-io/)
 - code-review-bot https://github.com/google/code-review-bot
 - derek - https://github.com/alexellis/derek/
@@ -21,13 +23,17 @@ TBD https://github.com/these-are-the/github-bots-youre-looking-for/issues/2
 
 # By feature
 
+Most used features:
+
+- Quick review with +/- approval votes
+- Policing against abuse and spammyness
+- and for closing down old / unproductive issues and PRs
+
 For github features there's https://github.com/marketplace which at least shows some ideas.
 
 And now also this wiki page: https://github.com/these-are-the/github-bots-youre-looking-for/wiki/Known-bot-feats
 
-- TBD
-
-# Archived
+## Archived
 
 - +homu https://bors.tech/homu-io/
 
