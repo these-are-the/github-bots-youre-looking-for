@@ -37,12 +37,15 @@ And now also this wiki page: https://github.com/these-are-the/github-bots-youre-
 
 # Bots in the wild (not focused on github)
 
+_HI! I'M ELIZA. WHAT'S YOUR PROBLEM?_
+
 - https://github.com/invocable/awesome-bots
+- https://awesomeopensource.com/project/abdelhai/awesome-bots
 - A special mention: https://github.com/hubotio
 
 ## Agents
 
 There is no such agent-cy. Or is that a bot, in disguise?
-- https://github.com/marketplace
+- https://github.com/huginn/huginn - Your agents are standing by.
 
 And a frindly wave to https://en.wikipedia.org/wiki/ASIMO
