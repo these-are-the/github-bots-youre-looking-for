@@ -1,8 +1,6 @@
-# These are the...
+# These are the github bots you've been looking for
 
-These are the github bots you've been looking for.
-
-This repo is meant to be by and for github users. (Yes, that includes you, my dear bots...overloards?)
+By and for github users. Yes, that includes you, my dear bots...overloards?
 
 # By popularity
 
@@ -10,7 +8,7 @@ TBD https://github.com/these-are-the/github-bots-youre-looking-for/issues/2
 
 # Alphabetic list (excluding "archived" ones)
 
-Some discontinued ones are moved down below Archived 
+Discontinued ones go under Archived.
 
 - bors-ng - https://bors.tech/ (RIP +homu https://bors.tech/homu-io/)
 - code-review-bot https://github.com/google/code-review-bot
